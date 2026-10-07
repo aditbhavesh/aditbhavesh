@@ -1,0 +1,35 @@
+# Environment & credentials
+.env
+.env.*
+*.env
+*.pem
+*.key
+*.pfx
+*.p12
+credentials.json
+client_secret*.json
+
+# Personal & Sensitive documents
+*.pdf
+*resume*
+*Resume*
+*marksheets*
+*id_scan*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Editor & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
