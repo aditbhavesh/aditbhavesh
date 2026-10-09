@@ -3,7 +3,7 @@
 <!-- ascii portrait (left) + neofetch info card (right). Both SVGs are
      840x881 so equal widths give equal heights and align pixel-for-pixel. -->
 
-<h3><code>averagebond@github ~ $ whoami</code></h3>
+<h3><code>aditbhavesh@github ~ $ whoami</code></h3>
 
 <table>
   <tr>
